@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 </div>
 
 #### :fire: My Stats :
+<div id="lang" align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realowner&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realowner&show_icons=true&theme=tokyonight)
-<div id="lang" align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realowner&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
