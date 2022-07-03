@@ -3,12 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -27,6 +22,11 @@ Here are some ideas to get you started:
 </div>
 
 ### Hi there 👋
+
+- 🔭 I’m a python developer
+- 🌱 I’m currently working with the web
+- 🤔 I like to study new technologies
+- 📫 How to reach me: iamrealowner@gmail.com
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -52,5 +52,10 @@ Here are some ideas to get you started:
 </div>
 
 #### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realowner&theme=tokyonight&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realowner&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realowner&show_icons=true&theme=tokyonight)
+<div id="lang" align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realowner&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
